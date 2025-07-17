@@ -1,0 +1,32 @@
+hansel:
+  name: Hansel Alcivar
+  title: Ingeniero en Software - Full Stack
+  url: https://linkedin.com/in/hanselalcivar  
+  image_url: https://avatars.githubusercontent.com/u/168109764?v=4
+  page: true
+  socials:
+    x: hanselalcivar
+    linkedin: hanselalcivar
+    github: hans-el
+
+jostyn:
+  name: Jostyn Alcivar
+  title: Ingeniero en Software - Full Stack
+  url: https://linkedin.com/in/jostynalcivar  
+  image_url: https://avatars.githubusercontent.com/u/80085733?v=4
+  page: true
+  socials:
+    x: jostynalcivar
+    linkedin: jostynalcivar
+    github: jostynalcivar13
+
+arianna:
+  name: Arianna Aspiazu
+  title: Ingeniero en Software - Diseñadora UI/UX
+  url: https://linkedin.com/in/ariannaaspiazu  
+  image_url: https://avatars.githubusercontent.com/u/199662955?v=4
+  page: true
+  socials:
+    x: ariannaaspiazu
+    linkedin: ariannaaspiazu
+    github: ArianMi15
