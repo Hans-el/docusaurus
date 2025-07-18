@@ -1,13 +1,13 @@
 ---
-slug: welcome
-title: Welcome
+slug: Bienvenido
+title: Bienvenido
 authors: [hansel, jostyn, arianna]
 tags: [facebook, hello, pedidosya]
 ---
 
 
 
-Conoce sobre nosotros asdjasd
+Conoce más sobre nosotros. 
 
 
 <!-- truncate -->
