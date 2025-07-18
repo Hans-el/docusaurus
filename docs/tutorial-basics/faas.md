@@ -1,4 +1,5 @@
-# Función FaaS
+# FaaS
+#### Función como Servicio
 
 La aplicación utiliza una función FaaS (Function as a Service) para manejar eventos específicos.
 
